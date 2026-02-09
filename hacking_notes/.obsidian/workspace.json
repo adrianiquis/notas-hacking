@@ -34,9 +34,135 @@
               "icon": "lucide-file",
               "title": "1-Lets Warm Up"
             }
+          },
+          {
+            "id": "267a6a5332f49e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/2-2 Warm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-2 Warm"
+            }
+          },
+          {
+            "id": "6ae8c26257ad38a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/3-Warmed up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-Warmed up"
+            }
+          },
+          {
+            "id": "b35d105566880934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/4-Bases64.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-Bases64"
+            }
+          },
+          {
+            "id": "8547743e75b5a0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/4-Bases64.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-Bases64"
+            }
+          },
+          {
+            "id": "7fb1e69d07f10afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/5-First Grep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5-First Grep"
+            }
+          },
+          {
+            "id": "416042533a4404a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/6-Obedient Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-Obedient Cat"
+            }
+          },
+          {
+            "id": "e510091c58d94b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/8-plumbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8-plumbing"
+            }
+          },
+          {
+            "id": "91d25497f89cad28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/9-Glitch Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9-Glitch Cat"
+            }
+          },
+          {
+            "id": "ed175c91cb4c1c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-General Skills/10- Nice netcat....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10- Nice netcat..."
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -198,10 +324,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "f84cb753b60d5e67",
+  "active": "2f795d6f047c5984",
   "lastOpenFiles": [
-    "Welcome.md",
+    "10-.md",
+    "picoCTF/1-General Skills/10- Nice netcat....md",
+    "picoCTF/1-General Skills/9-Glitch Cat.md",
+    "picoCTF/1-General Skills/8-plumbing.md",
+    "picoCTF/1-General Skills/7-what's a net cat.md",
+    "picoCTF/1-General Skills/6-Obedient Cat.md",
     "picoCTF/1-General Skills/1-Lets Warm Up.md",
+    "picoCTF/1-General Skills/5-First Grep.md",
+    "picoCTF/1-General Skills/4-Bases64.md",
+    "picoCTF/1-General Skills/3-Warmed up.md",
+    "picoCTF/1-General Skills/2-2 Warm.md",
+    "Welcome.md",
     "README.md",
     "picoCTF/1-General Skills",
     "picoCTF"
