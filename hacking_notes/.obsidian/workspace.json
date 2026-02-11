@@ -22,147 +22,77 @@
             }
           },
           {
-            "id": "f84cb753b60d5e67",
+            "id": "aa3cd304fda01017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-General Skills/1-Lets Warm Up.md",
+                "file": "picoCTF/2-General Skills/6-Tab, Tab, Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Lets Warm Up"
+              "title": "6-Tab, Tab, Attack"
             }
           },
           {
-            "id": "267a6a5332f49e6e",
+            "id": "0c13fc46d55e3848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-General Skills/2-2 Warm.md",
+                "file": "picoCTF/2-General Skills/7-Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-2 Warm"
+              "title": "7-Magikarp Ground Mission"
             }
           },
           {
-            "id": "6ae8c26257ad38a2",
+            "id": "7cf55e9d2b5b12d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-General Skills/3-Warmed up.md",
+                "file": "picoCTF/2-General Skills/8-Repetitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-Warmed up"
+              "title": "8-Repetitions"
             }
           },
           {
-            "id": "b35d105566880934",
+            "id": "a0f06d7a13d98f70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-General Skills/4-Bases64.md",
+                "file": "picoCTF/2-General Skills/8-Repetitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-Bases64"
+              "title": "8-Repetitions"
             }
           },
           {
-            "id": "8547743e75b5a0c8",
+            "id": "69cf1f1227e14b77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-General Skills/4-Bases64.md",
+                "file": "First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-Bases64"
-            }
-          },
-          {
-            "id": "7fb1e69d07f10afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/1-General Skills/5-First Grep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5-First Grep"
-            }
-          },
-          {
-            "id": "416042533a4404a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/1-General Skills/6-Obedient Cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6-Obedient Cat"
-            }
-          },
-          {
-            "id": "e510091c58d94b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/1-General Skills/8-plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8-plumbing"
-            }
-          },
-          {
-            "id": "91d25497f89cad28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/1-General Skills/9-Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9-Glitch Cat"
-            }
-          },
-          {
-            "id": "ed175c91cb4c1c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/1-General Skills/10- Nice netcat....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10- Nice netcat..."
+              "title": "First Find"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "37f24e3aea940cf3",
@@ -324,21 +254,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f795d6f047c5984",
+  "active": "69cf1f1227e14b77",
   "lastOpenFiles": [
-    "10-.md",
-    "picoCTF/1-General Skills/10- Nice netcat....md",
-    "picoCTF/1-General Skills/9-Glitch Cat.md",
-    "picoCTF/1-General Skills/8-plumbing.md",
-    "picoCTF/1-General Skills/7-what's a net cat.md",
+    "picoCTF/2-General Skills/8-Repetitions.md",
+    "First Find.md",
+    "picoCTF/2-General Skills/9-Big zip.md",
+    "picoCTF/2-General Skills/7-Magikarp Ground Mission.md",
+    "picoCTF/2-General Skills/6-Tab, Tab, Attack.md",
+    "README.md",
+    "picoCTF/2-General Skills/5-Useless.md",
+    "picoCTF/2-General Skills/4-Static ain't always noise.md",
+    "picoCTF/2-General Skills/3-Wave a flag.md",
+    "picoCTF/2-General Skills/2-strings it.md",
+    "picoCTF/2-General Skills/1-Based.md",
     "picoCTF/1-General Skills/6-Obedient Cat.md",
-    "picoCTF/1-General Skills/1-Lets Warm Up.md",
+    "picoCTF/1-General Skills/7-what's a net cat.md",
+    "picoCTF/1-General Skills/8-plumbing.md",
+    "picoCTF/1-General Skills/9-Glitch Cat.md",
+    "picoCTF/1-General Skills/10- Nice netcat....md",
     "picoCTF/1-General Skills/5-First Grep.md",
     "picoCTF/1-General Skills/4-Bases64.md",
-    "picoCTF/1-General Skills/3-Warmed up.md",
     "picoCTF/1-General Skills/2-2 Warm.md",
+    "picoCTF/1-General Skills/1-Lets Warm Up.md",
+    "Plantilla.md",
+    "picoCTF/1-General Skills/3-Warmed up.md",
+    "Untitled",
+    "picoCTF/2-General Skills",
+    "10-.md",
     "Welcome.md",
-    "README.md",
     "picoCTF/1-General Skills",
     "picoCTF"
   ]
