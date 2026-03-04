@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b41ba9aea1ed9435",
+            "id": "46a9e7ab8d92b2b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 3/JaWT Scratchpad.md",
+                "file": "Web 4/SOAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JaWT Scratchpad"
+              "title": "SOAP"
+            }
+          },
+          {
+            "id": "21fdd1650b1db147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web 4/Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trickster"
+            }
+          },
+          {
+            "id": "f2794d789edaac9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web 4/Most Cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Most Cookies"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +214,12 @@
   },
   "active": "2f795d6f047c5984",
   "lastOpenFiles": [
+    "Web 4/Trickster.md",
+    "Web 4/Most Cookies.md",
+    "Web 4/SOAP.md",
     "picoCTF/Web 3/JaWT Scratchpad.md",
+    "Web 4/MatchTheRegex.md",
+    "Web 4",
     "picoCTF/Web 3/More SQLi.md",
     "picoCTF/Web 3/Irish-Name-Repo 1.md",
     "picoCTF/Web 2/Scavanger Hunt.md",
@@ -210,11 +244,6 @@
     "picoCTF/3-General Skills/PW Crack 1.md",
     "picoCTF/3-General Skills/fixme2.py.md",
     "picoCTF/3-General Skills/fixme1.py.md",
-    "picoCTF/3-General Skills/convertme.py.md",
-    "picoCTF/3-General Skills/Codebook.md",
-    "picoCTF/2-General Skills/5-Useless.md",
-    "picoCTF/2-General Skills/4-Static ain't always noise.md",
-    "picoCTF/2-General Skills/2-strings it.md",
     "Untitled 1",
     "picoCTF/3-General Skills",
     "picoCTF/2-General Skills",
