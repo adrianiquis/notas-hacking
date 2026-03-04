@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web 4/SOAP.md",
+                "file": "picoCTF/Web 4/SOAP.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web 4/Trickster.md",
+                "file": "picoCTF/Web 4/Trickster.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web 4/Most Cookies.md",
+                "file": "picoCTF/Web 4/Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
@@ -214,12 +214,12 @@
   },
   "active": "2f795d6f047c5984",
   "lastOpenFiles": [
-    "Web 4/Trickster.md",
-    "Web 4/Most Cookies.md",
-    "Web 4/SOAP.md",
+    "picoCTF/Web 4/Trickster.md",
+    "picoCTF/Web 4/Most Cookies.md",
+    "picoCTF/Web 4/SOAP.md",
     "picoCTF/Web 3/JaWT Scratchpad.md",
-    "Web 4/MatchTheRegex.md",
-    "Web 4",
+    "picoCTF/Web 4/MatchTheRegex.md",
+    "picoCTF/Web 4",
     "picoCTF/Web 3/More SQLi.md",
     "picoCTF/Web 3/Irish-Name-Repo 1.md",
     "picoCTF/Web 2/Scavanger Hunt.md",
