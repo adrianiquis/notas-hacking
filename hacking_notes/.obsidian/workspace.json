@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7c89634f8682d7b1",
+        "id": "d82566c0d1cc26ea",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6a8caf121e0179",
+            "id": "a7f49f3505aaa8ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic 4/Sleuthkit Apprentice.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sleuthkit Apprentice"
-            }
-          },
-          {
-            "id": "ebc9c8cc5f7b3b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic 4/Milkslap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Milkslap"
-            }
-          },
-          {
-            "id": "9d6039a5d0c103e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic 4/Disk, disk, sleuth!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Disk, disk, sleuth!"
-            }
-          },
-          {
-            "id": "d107a60521fa4f32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic 4/Sleuthkit Intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sleuthkit Intro"
-            }
-          },
-          {
-            "id": "5dda13769305b2cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic 4/Operation Orchid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Operation Orchid"
-            }
-          },
-          {
-            "id": "c511fd9b1812da3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Forensic 4/Operation Oni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Operation Oni"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,11 +179,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f795d6f047c5984",
+  "active": "a7f49f3505aaa8ef",
   "lastOpenFiles": [
+    "picoCTF/crypto 1/waves over lambda.md",
+    "picoCTF/crypto 1/la cifra de.md",
+    "picoCTF/crypto 1/interencdec.md",
+    "picoCTF/crypto 1/caesar.md",
+    "picoCTF/crypto 1/The Numbers.md",
+    "picoCTF/crypto 1/Tapping.md",
+    "picoCTF/crypto 1/Easy 1.md",
+    "picoCTF/crypto 1/13.md",
+    "picoCTF/Forensic 4/Operation Oni.md",
+    "picoCTF/crypto 1",
     "picoCTF/Forensic 4",
     "picoCTF/Forensic 4/Operation Orchid.md",
-    "picoCTF/Forensic 4/Operation Oni.md",
     "picoCTF/Forensic 4/Sleuthkit Intro.md",
     "picoCTF/Forensic 4/Disk, disk, sleuth!.md",
     "picoCTF/Forensic 4/Milkslap.md",
@@ -277,19 +211,11 @@
     "picoCTF/New folder",
     "picoCTF/Timeline 0.md",
     "picoCTF/SUDO MAKE ME A SANDWICH.md",
-    "picoCTF/Printer Shares.md",
-    "picoCTF/ping-cmd.md",
-    "picoCTF/Piece by piece.md",
-    "picoCTF/Password Profiler.md",
-    "picoCTF/MY GIT.md",
-    "picoCTF/MultiCode.md",
-    "picoCTF/KSECRETS.md",
     "C",
     "picoCTF/Forensic 3",
     "picoCTF/Forensic2",
     "picoCTF/Forensic 1",
     "Inspect HTML",
-    "picoCTF/Tarea 2 - Web",
-    "picoCTF/Web 4"
+    "picoCTF/Tarea 2 - Web"
   ]
 }
