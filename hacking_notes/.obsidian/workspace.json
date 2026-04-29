@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "120268f644dcb3cc",
+        "id": "0cc7e757f0a06b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "6e57dc422d9710b2",
+            "id": "c807b5e96441dfcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 4 crypto/substitution0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "substitution0"
-            }
-          },
-          {
-            "id": "a544270dcad57a9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 4 crypto/substitution1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "substitution1"
-            }
-          },
-          {
-            "id": "4bb1f041569fa25a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,11 +181,18 @@
   },
   "active": "2f795d6f047c5984",
   "lastOpenFiles": [
+    "picoCTF/Tarea 4 crypto/substitution0.md",
+    "picoCTF/Tarea 4 crypto/substitution1.md",
+    "Plantilla.md",
+    "picoCTF/Web 3/Reversing 1/vault-door-3.md",
+    "picoCTF/Web 3/Reversing 1/vault-door-training.md",
+    "picoCTF/Web 3/Reversing 1/vault-door-1.md",
+    "picoCTF/Web 3/Reversing 1/vault-door-4.md",
+    "picoCTF/Web 3/Reversing 1/vault-door-5.md",
+    "picoCTF/Web 3/Reversing 1",
     "picoCTF/Tarea 4 crypto/substitution2.md",
     "picoCTF/Tarea 4 crypto",
     "Tarea.md",
-    "picoCTF/Tarea 4 crypto/substitution1.md",
-    "picoCTF/Tarea 4 crypto/substitution0.md",
     "picoCTF/Tarea 4 crypto/rail-fence.md",
     "picoCTF/Tarea 4 crypto/morse-code.md",
     "picoCTF/Tarea 4 crypto/EVEN RSA CAN BE BROKEN.md",
@@ -237,17 +211,11 @@
     "picoCTF/crypto 2",
     "picoCTF/crypto 3/b00tl3gRSA2.md",
     "picoCTF/crypto 3/Mini RSA.md",
-    "picoCTF/crypto 3/Mind your Ps and Qs.md",
     "picoCTF/crypto 3",
-    "picoCTF/crypto 1/waves over lambda.md",
-    "picoCTF/crypto 1/la cifra de.md",
-    "picoCTF/crypto 1/interencdec.md",
-    "picoCTF/crypto 1/caesar.md",
     "picoCTF/crypto 1",
     "picoCTF/Forensic 4",
     "picoCTF/concurso 1",
     "picoCTF/New folder",
-    "C",
-    "picoCTF/Forensic 3"
+    "C"
   ]
 }
