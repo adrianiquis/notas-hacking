@@ -11,13 +11,46 @@
             "id": "c807b5e96441dfcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing - parte3/asm1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "asm1"
+            }
+          },
+          {
+            "id": "95bb699de4c07865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing - parte3/asm2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asm2"
+            }
+          },
+          {
+            "id": "f9413422c0a3f874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing - parte3/asm3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asm3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,9 +214,13 @@
   },
   "active": "2f795d6f047c5984",
   "lastOpenFiles": [
+    "picoCTF/Reversing - parte3",
+    "picoCTF/Reversing - parte3/asm2.md",
+    "picoCTF/Reversing - parte3/asm3.md",
+    "picoCTF/Reversing - parte3/asm1.md",
+    "Plantilla.md",
     "picoCTF/Tarea 4 crypto/substitution0.md",
     "picoCTF/Tarea 4 crypto/substitution1.md",
-    "Plantilla.md",
     "picoCTF/Web 3/Reversing 1/vault-door-3.md",
     "picoCTF/Web 3/Reversing 1/vault-door-training.md",
     "picoCTF/Web 3/Reversing 1/vault-door-1.md",
@@ -205,12 +242,8 @@
     "picoCTF/crypto 4/HideToSee.md",
     "picoCTF/crypto 4/basic-mod1.md",
     "picoCTF/crypto 4/Pixelated.md",
-    "picoCTF/crypto 2/rsa-pop-quiz.md",
     "picoCTF/crypto 4",
-    "picoCTF/crypto 3/b00tl3gRSA3.md",
     "picoCTF/crypto 2",
-    "picoCTF/crypto 3/b00tl3gRSA2.md",
-    "picoCTF/crypto 3/Mini RSA.md",
     "picoCTF/crypto 3",
     "picoCTF/crypto 1",
     "picoCTF/Forensic 4",
