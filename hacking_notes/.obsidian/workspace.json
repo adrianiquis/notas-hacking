@@ -4,53 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "0cc7e757f0a06b3a",
+        "id": "72b183e48fc3c1e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c807b5e96441dfcb",
+            "id": "53f2ad435de2be37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing - parte3/asm1.md",
+                "file": "picoCTF/Reversing 2/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asm1"
+              "title": "Safe Opener 2"
             }
           },
           {
-            "id": "95bb699de4c07865",
+            "id": "3ebb95dd39183e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing - parte3/asm2.md",
+                "file": "picoCTF/Reversing 2/time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asm2"
+              "title": "time"
             }
           },
           {
-            "id": "f9413422c0a3f874",
+            "id": "fda7b037e974ea21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing - parte3/asm3.md",
+                "file": "picoCTF/Reversing 2/Picker I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asm3"
+              "title": "Picker I"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +214,17 @@
   },
   "active": "2f795d6f047c5984",
   "lastOpenFiles": [
+    "picoCTF/Reversing 2",
+    "picoCTF/Reversing 2/Picker I.md",
+    "picoCTF/Reversing 2/Picker II.md",
+    "picoCTF/Reversing 2/Picker III.md",
+    "picoCTF/Reversing 2/Picker IV.md",
+    "picoCTF/Reversing 2/time.md",
+    "picoCTF/Reversing 2/Safe Opener 2.md",
+    "picoCTF/Reversing - parte3/asm1.md",
+    "picoCTF/Reversing - parte3/asm3.md",
     "picoCTF/Reversing - parte3",
     "picoCTF/Reversing - parte3/asm2.md",
-    "picoCTF/Reversing - parte3/asm3.md",
-    "picoCTF/Reversing - parte3/asm1.md",
     "Plantilla.md",
     "picoCTF/Tarea 4 crypto/substitution0.md",
     "picoCTF/Tarea 4 crypto/substitution1.md",
@@ -236,19 +243,12 @@
     "picoCTF/Tarea 4 crypto/hashcrack.md",
     "picoCTF/Tarea 4 crypto/credstuff.md",
     "picoCTF/Tarea 4 crypto/Vigenere.md",
-    "picoCTF/Tarea 4 crypto/Crack the Power.md",
-    "picoCTF/crypto 4/Flags.md",
-    "picoCTF/crypto 4/ReadMyCert.md",
-    "picoCTF/crypto 4/HideToSee.md",
-    "picoCTF/crypto 4/basic-mod1.md",
-    "picoCTF/crypto 4/Pixelated.md",
     "picoCTF/crypto 4",
     "picoCTF/crypto 2",
     "picoCTF/crypto 3",
     "picoCTF/crypto 1",
     "picoCTF/Forensic 4",
     "picoCTF/concurso 1",
-    "picoCTF/New folder",
-    "C"
+    "picoCTF/New folder"
   ]
 }
